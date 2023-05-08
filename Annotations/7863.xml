@@ -1,0 +1,147 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7863.jpg</filename>
+    <path>pollengermination2-PascalVOC-export/Annotations/7863.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>169</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>270.32681334252453</xmin>
+        <ymin>74.29693143273728</ymin>
+        <xmax>277.12419098498776</xmax>
+        <ymax>83.44620069605568</ymax>
+    </bndbox>
+</object><object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>313.98693608302693</xmin>
+        <ymin>83.70760428656558</ymin>
+        <xmax>319.73857804840685</xmax>
+        <ymax>92.33405440257486</ymax>
+    </bndbox>
+</object><object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>303.26798981311276</xmin>
+        <ymin>60.70374129930394</ymin>
+        <xmax>310.32681334252453</xmax>
+        <ymax>71.16004048146117</ymax>
+    </bndbox>
+</object><object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>48.10458314185049</xmin>
+        <ymin>67.23892679236604</ymin>
+        <xmax>56.99346804151348</xmax>
+        <ymax>75.34256972735554</ymax>
+    </bndbox>
+</object><object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>206.53595569087008</xmin>
+        <ymin>130.49957693148656</ymin>
+        <xmax>215.42485255821077</xmax>
+        <ymax>139.64883422851562</ymax>
+    </bndbox>
+</object><object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>212.81046549479166</xmin>
+        <ymin>146.9682544256861</ymin>
+        <xmax>221.4379164751838</xmax>
+        <ymax>154.54906624707712</ymax>
+    </bndbox>
+</object><object>
+    <name>germinated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>254.11764705882354</xmin>
+        <ymin>112.98526114266876</ymin>
+        <xmax>261.43791647518384</xmax>
+        <ymax>123.18015673431609</ymax>
+    </bndbox>
+</object><object>
+    <name>nongerminated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>286.01308785232845</xmin>
+        <ymin>122.39593399649706</ymin>
+        <xmax>292.28759765625</xmax>
+        <ymax>128.66971589904927</ymax>
+    </bndbox>
+</object><object>
+    <name>nongerminated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>125.7516419653799</xmin>
+        <ymin>83.44620069605568</ymin>
+        <xmax>130.98039215686273</xmax>
+        <ymax>89.19716345129876</ymax>
+    </bndbox>
+</object><object>
+    <name>nongerminated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>121.04575961243873</xmin>
+        <ymin>29.59623537705282</ymin>
+        <xmax>127.05882352941177</xmax>
+        <ymax>35.87001727960502</ymax>
+    </bndbox>
+</object><object>
+    <name>nongerminated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>55.68627450980392</xmin>
+        <ymin>45.80350928074246</ymin>
+        <xmax>61.96078431372549</xmax>
+        <ymax>52.07729118329466</ymax>
+    </bndbox>
+</object><object>
+    <name>nongerminated</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>21.176470588235293</xmin>
+        <ymin>83.96901984336482</ymin>
+        <xmax>26.928112553615193</xmax>
+        <ymax>91.02702448373604</ymax>
+    </bndbox>
+</object>
+</annotation>
